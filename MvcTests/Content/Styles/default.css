@@ -13,8 +13,7 @@ body {
 
 .header {
     height: 55px;
-    background: #292929 url('/content/images/header-pattern.png') repeat-x;
-    border-bottom: 1px solid #93df00;
-    padding-top: 20px;
-    padding-left: 20px;
+    background-color: #fff;
+    border-bottom: 1px solid #00aa9d;
+    padding: 5px 20px;
 }
