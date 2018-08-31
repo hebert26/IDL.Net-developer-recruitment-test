@@ -67,6 +67,7 @@
   <ItemGroup>
     <Compile Include="RaceConditionTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SorterAlgorithmTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\TechnicalTests\TechnicalTests.csproj">
