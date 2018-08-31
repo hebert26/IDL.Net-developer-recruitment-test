@@ -11,6 +11,7 @@ namespace TechnicalTests
 
         public IList<T> BubbleSort<T>(IList<T> list, IComparer<T> comparer)
         {
+            //TODO:HG Handle exception when list is null
             bool incomplete = true;
             while (incomplete)
             {
