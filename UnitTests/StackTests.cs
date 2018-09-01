@@ -62,6 +62,6 @@ namespace UnitTests
             Assert.AreEqual(expected, Stack.CurrentSize());
         }
 
-        //TODO:HG Add more unit test to cover exception when invalid operation or argument out of range
+        //TODO:HG. Add more unit test to cover exception when invalid operation or argument out of range
     }
 }
