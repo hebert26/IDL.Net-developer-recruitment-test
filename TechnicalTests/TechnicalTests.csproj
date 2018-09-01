@@ -65,13 +65,10 @@
     <Compile Include="RaceCondition.cs" />
     <Compile Include="Session.cs" />
     <Compile Include="Sorter.cs" />
+    <Compile Include="Stack.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="scripts\ww.jquery.js" />
-    <Content Include="scripts\ww.jquery.min.js" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
